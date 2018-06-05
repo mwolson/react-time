@@ -10,6 +10,16 @@ Installation
 
     % npm install react-time
 
+Changes in tt-react-time fork
+-----------------------------
+
+* Support React 16
+* Update prop-types dependencies
+
+Original project: https://github.com/andreypopp/react-time
+
+Some changes applied from https://github.com/ianatha/react-time
+
 Usage
 -----
 
